@@ -89,7 +89,9 @@
 				1AD176F51B6D73E70081F615 /* TagListView */,
 				1A6076BA1AFED303009EA00E /* Products */,
 			);
+			indentWidth = 4;
 			sourceTree = "<group>";
+			tabWidth = 4;
 		};
 		1A6076BA1AFED303009EA00E /* Products */ = {
 			isa = PBXGroup;
